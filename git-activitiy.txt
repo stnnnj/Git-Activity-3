@@ -1,3 +1,6 @@
 This is my first Git activity.
 I am learning basic Git and GitHub commands.
 This file is part of my CS223 activity.
+
+I created a feature branch.
+I am practicing branching and merging with Git.
