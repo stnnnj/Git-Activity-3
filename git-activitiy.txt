@@ -1,0 +1,3 @@
+This is my first Git activity.
+I am learning basic Git and GitHub commands.
+This file is part of my CS223 activity.
